@@ -1,0 +1,7 @@
+nl\hu\bep\setup\domein\AuthService.class
+nl\hu\bep\setup\servlet\AuthController.class
+nl\hu\bep\setup\domein\UserDetails.class
+nl\hu\bep\setup\domein\LoginRequest.class
+nl\hu\bep\setup\domein\AuthResponse.class
+nl\hu\bep\setup\JerseyConfig.class
+nl\hu\bep\setup\domein\ValidationResponse.class

@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Created-By: IntelliJ IDEA
+Built-By: dunca
+Build-Jdk: Oracle OpenJDK version 21.0.2
+Specification-Title: eindopdracht
+Specification-Version: 0.1
+Implementation-Title: eindopdracht
+Implementation-Version: 0.1
+Implementation-Vendor-Id: nl.hu.bep
+
